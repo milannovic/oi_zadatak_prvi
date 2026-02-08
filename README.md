@@ -1,5 +1,6 @@
 1. Prvo kopirajte repozitorijum
 2. Onda vrsimo kompajliranje u terminalu repozitorijuma:
+   
    gcc -O2 -std=c11 cover_knapsack_eval_final.c -o cover_eval
 3. Preko terminala pokrecemo program,
    primjeri pokretanja:
